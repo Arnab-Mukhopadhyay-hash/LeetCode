@@ -1,7 +1,6 @@
 package LeetCode;
 
 import java.util.Scanner;
-//import java.util.ArrayList;
 import java.util.HashMap;
 
 /* changes to be made */
